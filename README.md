@@ -1,4 +1,6 @@
-his Java code generates a random password of a specified length.
+Java-code-generator
+
+This Java code generates a random password of a specified length.
 
 1. The code starts by importing the necessary Java utilities package.
 2. It declares a public class named "NewClass" and a main method within it.
