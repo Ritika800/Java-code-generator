@@ -7,8 +7,11 @@ Welcome to the Java Code Generator Project! This project automates the generatio
 **Features**
 
  Code Generation: Automatically generate Java classes, interfaces, and methods.
+
  Customizable Templates: Define your own templates for various Java constructs.
+
  User-Friendly Interface: Easy-to-use command-line interface and GUI.
+
  Extensible: Easily extend the generator with additional templates and configurations.
 
 **Configuration**
